@@ -1,0 +1,8 @@
+# KEITH Manufacturing Handbook AI Assistant
+# Requirements for Streamlit Cloud deployment
+
+streamlit==1.40.1
+openai==1.57.0
+pinecone==5.4.0
+pydantic>=2.0.0
+typing-extensions>=4.0.0
