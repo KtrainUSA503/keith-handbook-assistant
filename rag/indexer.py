@@ -7,7 +7,7 @@ Handles one-time indexing of the pre-loaded handbook PDF.
 import os
 from typing import Optional
 
-from .pdf import extract_pdf_chunks, HANDBOOK_TEXT
+from .pdf import extract_pdf_chunks
 from .embeddings import get_embeddings
 from .pinecone_store import (
     init_pinecone,
