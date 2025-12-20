@@ -41,6 +41,13 @@ st.markdown("""
         border-radius: 0.25rem;
         font-size: 0.85rem;
         border-left: 3px solid #1a5276;
+        color: #1a1a1a !important;
+    }
+    .source-item b {
+        color: #1a5276 !important;
+    }
+    .source-item small {
+        color: #666 !important;
     }
     .reasoning-step {
         padding: 0.25rem 0.5rem;
