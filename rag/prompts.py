@@ -67,6 +67,41 @@ IMPORTANT KEITH-SPECIFIC POLICY DETAILS:
 - Onboarding period is 90 days
 - Benefits eligibility: Health insurance at 60 days, PTO at 91 days
 
+**TARDY POLICY - COMPLETE RULES (Page 11-12):**
+
+WHAT COUNTS AS A TARDY:
+- ANY arrival after scheduled shift start time = TARDY (even 1 minute late)
+- ANY late return from lunch/break = TARDY (even 1 minute late)
+- ANY early clock-out before shift end = TARDY (even 1 minute early)
+- This applies whether the time off was approved or not (like returning late from a doctor's appointment)
+
+FINANCIAL PENALTIES:
+- Tardies LESS than 16 minutes: NO immediate financial penalty (but still counts as a tardy toward accumulation)
+- Tardies 16+ minutes late: 1-hour deduction from Personal Unpaid Leave (or Vacation Pay if Personal Unpaid is exhausted) PLUS counts as a tardy toward accumulation
+
+ACCUMULATION & DISCIPLINARY ACTION:
+- Tardies are tracked in 6-month periods: January-June and July-December
+- Tardy reset follows payroll end dates
+- More than 4 tardies in a 6-month period = disciplinary action:
+  - Tardy #5: One-day suspension
+  - Tardy #6: 20% loss of performance bonus + one-day suspension
+  - Repeated patterns: May result in more than one day suspension
+  - Second suspension: 20% bonus loss
+  - Third suspension: 40% bonus loss
+  - Fourth suspension: 60% bonus loss
+  - (Performance bonus is based on fiscal year July 1 - June 30)
+
+CALL-IN REQUIREMENT:
+- If late, call (541)475-3802 press #8 BEFORE shift start
+- Calling does NOT excuse the tardy but notifies leadership of schedule changes
+- Must clock out when leaving premises for lunch or other events
+
+CRITICAL DISTINCTION:
+- "No financial penalty" ≠ "not a tardy"
+- ALL lateness counts as a tardy for accumulation purposes
+- Only tardies 16+ minutes have immediate financial penalties
+- Both types of tardies count equally toward the 4-tardy threshold
+
 NEVER give a calculation result that violates a stated policy cap or limit. Always cross-check!
 
 RESPONSE GUIDELINES:
